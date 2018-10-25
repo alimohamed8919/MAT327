@@ -1,0 +1,32 @@
+Model,Make,Country,Price,ZeroToSixty,MPG,Horsepower
+MDX,Acura,Japan,44200,6,23.5,290
+X5,BMW,Germany,57200,6,26,255
+X6,BMW,Germany,62950,5.8,21.5,300
+XT5,Cadillac,USA,40595,6.6,22.5,310
+Traverse,Chevrolet,USA,29930,6.5,23,310
+Journey,Dodge,USA,27395,7.8,20,283
+Explorer,Ford,USA,32140,5.8,23,290
+Edge,Ford,USA,29315,8,25,245
+Terrain Denali,GMC,USA,37800,6.8,25,252
+Acadia,GMC,USA,29000,6.1,23.5,310
+Pilot,Honda,Japan,30900,6.1,23.5,280
+CR-V,Honda,Japan,24250,7.7,29,184
+Santa Fe,Hyundai,South Korea,30850,7.6,21.5,290
+QX60,Infiniti,Japan,43300,7.1,23.5,295
+F-Pace,Jaguar,UK,42065,6.4,29.5,247
+Grand Cherokee,Jeep,USA,30895,7.1,26,295
+Sorento,Kia,South Korea,29600,7.2,21.5,290
+RX,Lexus,Japan,43470,7.5,23.5,295
+MKX,Lincoln,USA,39035,5.9,21.5,303
+MKT,Lincoln,USA,43530,7,20,303
+GLE-Class,Mercedes-Benz,Germany,52200,5.5,20.5,302
+GLS-Class,Mercedes-Benz,Germany,69550,5.7,19.5,362
+Outlander GT,Mitsubishi,Japan,32245,7.6,23.5,224
+Murano,Nissan,Japan,31000,7.3,24.5,260
+Pathfinder,Nissan,Japan,31040,7.4,23.5,284
+Ascent,Subaru,Japan,31995,7.3,24,260
+Forester,Subaru,Japan,24295,8.7,29.5,182
+Highlander,Toyota,Japan,31230,7,24,295
+4Runner,Toyota,Japan,34810,7.5,19,270
+Atlas,Volkswagen,Germany,30750,7.2,24,276
+XC90,Volvo,Sweden,46900,6.1,25.5,250
