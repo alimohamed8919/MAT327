@@ -1,5 +1,11 @@
 # MAT327
 
+Google Sites Webpage
+
+    https://sites.google.com/view/alimohamedmat327/home
+
+
+
 
 Mean and Standard Deviation
 
